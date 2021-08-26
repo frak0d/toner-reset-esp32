@@ -1,0 +1,5 @@
+trace/
+build/
+.git/
+.vscode/
+sdkconfig.old
